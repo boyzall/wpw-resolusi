@@ -1,6 +1,9 @@
 WPU RESOLUSI
 - Konsisten untuk membuat konten selama 2 kali seminggu
-- membuat platform untuk pengelolaan video
+- Membuat platform untuk pengelolaan video
 - Membuat forum diskusi
 - Kolaborasi dengan lebih banyak expert
 - Membuat vlog
+- sabar untuk mengupdate web portofolio sambil terus belajar
+- semua rencana konten dan rowmodel ada di internet (pintar googling)
+- mengetahui kepentingan dalam belajar css terutama bootstrap
