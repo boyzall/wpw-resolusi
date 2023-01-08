@@ -5,6 +5,7 @@ RENCANA KONTEN WPW
   *Framework Javascript
   ` Vue
   ` React
+  - waktu pemebelajaran
 - Struktur data dasar
 - PHP Frameworks
   ` Laravel
