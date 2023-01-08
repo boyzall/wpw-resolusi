@@ -2,7 +2,8 @@ RENCANA KONTEN WPW
 
 - Javascript
   *ES6
-  *Framework Javascript
+  *Framework Javascript\
+- Struktur data dasar
 - PHP Frameworks
 - Interview
 - Vlogs
